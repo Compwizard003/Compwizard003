@@ -1,4 +1,4 @@
-# Hi, I'm Fatuma Hemed 👋
+# Hi, I'm Fatuma Hemed 
 
 ### IT Graduate | Full-Stack Developer | Data & Digital Professional
 
@@ -8,19 +8,19 @@ I enjoy turning ideas into practical digital products and continuously improving
 
 ---
 
-## 👩🏽‍💻 About Me
+##  About Me
 
-- 🎓 Information Technology graduate — Technical University of Mombasa
-- 💻 Interested in full-stack web development
-- 📊 Interested in data analysis and data management
-- 🌐 Experience with digital marketing and online work
-- 🤝 Interested in technology, social impact, and digital transformation
-- 📚 Currently strengthening my skills in modern web development and software engineering
-- 📍 Mombasa, Kenya
+-  Information Technology graduate — Technical University of Mombasa
+-  Interested in full-stack web development
+-  Interested in data analysis and data management
+-  Experience with digital marketing and online work
+-  Interested in technology, social impact, and digital transformation
+-  Currently strengthening my skills in modern web development and software engineering
+-  Mombasa, Kenya
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming & Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,9 +47,9 @@ I enjoy turning ideas into practical digital products and continuously improving
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛡️ Salama — GBV Reporting & Support System
+###  Salama — GBV Reporting & Support System
 A digital platform designed to make it easier for survivors and affected individuals to report gender-based violence and access support resources.
 
 **Key concepts:** anonymous reporting, evidence submission, emergency contacts, support resources, report tracking, and administration.
@@ -58,7 +58,7 @@ A digital platform designed to make it easier for survivors and affected individ
 
 ---
 
-### 💻 Spairally
+###  Spairally
 A web application project built with **Next.js** as part of my continued development in modern web technologies.
 
 **Tech:** Next.js, React, TypeScript
@@ -74,7 +74,7 @@ A software project exploring secure digital voting concepts and election-related
 
 ---
 
-### 📊 Data Analysis Projects
+### Data Analysis Projects
 I am building practical data projects using Excel and other data tools to demonstrate skills in:
 
 - Data cleaning
@@ -86,7 +86,7 @@ I am building practical data projects using Excel and other data tools to demons
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced JavaScript
 - React
@@ -99,7 +99,7 @@ I am building practical data projects using Excel and other data tools to demons
 
 ---
 
-## 🎯 Career Focus
+##  Career Focus
 
 I am building toward opportunities in:
 
@@ -109,7 +109,7 @@ My goal is to continuously build real projects, contribute to meaningful solutio
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Compwizard003&show_icons=true&hide_border=true&rank_icon=github)
 
@@ -117,13 +117,13 @@ My goal is to continuously build real projects, contribute to meaningful solutio
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💻 GitHub: [@Compwizard003](https://github.com/Compwizard003)
-- 📍 Mombasa, Kenya
+- GitHub: [@Compwizard003](https://github.com/Compwizard003)
+-  Mombasa, Kenya
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+###  "Build. Learn. Improve. Repeat."
 
 I believe strong technology skills are developed through consistent practice and real-world projects.
