@@ -10,7 +10,7 @@ I enjoy turning ideas into practical digital products and continuously improving
 
 ##  About Me
 
--  Information Technology graduate — Technical University of Mombasa
+-  Information Technology student — Technical University of Mombasa
 -  Interested in full-stack web development
 -  Interested in data analysis and data management
 -  Experience with digital marketing and online work
