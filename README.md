@@ -2,7 +2,7 @@
 
 ### IT Graduate | Full-Stack Developer | Data & Digital Professional
 
-I am an Information Technology graduate from the Technical University of Mombasa with a growing focus on **full-stack web development, data analysis, digital solutions, and technology for social impact**.
+I am an Information Technology Student from the Technical University of Mombasa with a growing focus on **full-stack web development, data analysis, digital solutions, and technology for social impact**.
 
 I enjoy turning ideas into practical digital products and continuously improving my skills through hands-on projects.
 
@@ -67,7 +67,7 @@ A web application project built with **Next.js** as part of my continued develop
 
 ---
 
-### 🔐 Secure Vote Chain System
+###  Secure Vote Chain System
 A software project exploring secure digital voting concepts and election-related technology.
 
 **Focus:** authentication, secure records, and digital voting workflows.
